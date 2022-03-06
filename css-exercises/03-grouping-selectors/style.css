@@ -1,0 +1,13 @@
+btnOne {
+    background-color: black;
+    color: white;
+}
+
+btnTwo {
+    background-color: yellow;
+}
+
+btnGrp {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
